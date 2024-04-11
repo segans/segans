@@ -1,6 +1,5 @@
 <h1 align="center">Eai! Eu sou o Segan, um desenvolvedor Front-end!</h1>
-
-- Meu nome é Lucas Segantini. Despertei meu interesse em programação durante o ensino médio. Sou formado em Técnico em Análise e Desenvolvimento de Sistemas na ETEC e estou concluindo um curso superior em ADS na FIAP.
+- Meu nome é Lucas Segantini. Despertei meu interesse em programação durante o ensino médio. Sou formado Técnico em Análise e Desenvolvimento de Sistemas na ETEC e estou concluindo um curso superior em ADS na FIAP.
 
 - Eu gosto muito de desenvolver aplicações Web, porém minha verdadeira paixão é o desenvolvimento de aplicações Mobile usando React-Native!
 
